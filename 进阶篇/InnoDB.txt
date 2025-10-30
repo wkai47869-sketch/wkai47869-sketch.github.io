@@ -1,0 +1,35 @@
+# innoDB引擎
+
+## 逻辑存储结构
+
+![image-20251029195315935](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029195315935.png)
+
+## 架构
+
+![image-20251029195542689](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029195542689.png)
+
+### 内存架构
+
+![image-20251029195838694](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029195838694.png)
+
+![image-20251029200053318](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029200053318.png)
+
+![image-20251029200231809](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029200231809.png)
+
+![image-20251029200345555](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029200345555.png)
+
+### 磁盘架构
+
+![image-20251029200833561](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029200833561.png)
+
+![image-20251029201154685](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029201154685.png)
+
+![image-20251029201357774](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029201357774.png)
+
+### 后台线程
+
+![image-20251029202535535](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029202535535.png)
+
+## 事务原理
+
+![image-20251029202814450](C:\Users\46814\AppData\Roaming\Typora\typora-user-images\image-20251029202814450.png)
