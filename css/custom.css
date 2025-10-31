@@ -27,3 +27,7 @@
   display: none !important;
 }
 
+#pagination {
+  width: 100%;
+  margin: auto;
+}
