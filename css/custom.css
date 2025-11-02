@@ -302,75 +302,9 @@ svg.icon {
 
 
 
-/* 在主题 CSS 中添加 */
-.menus_items, .menus_item {
-  display: block !important; /* 强制显示菜单容器 */
-}
-.menus_item .hide {
-  /* 若需要完全禁用 hide 类，可覆盖为显示 */
-  display: inline-block !important;
-}
 
-/* 导航菜单容器：横向排列 */
-.menus_items {
-  display: flex;          /* 启用弹性布局 */
-  gap: 1.5em;             /* 菜单项之间的间距 */
-  padding: 0;             /* 移除默认内边距 */
-  margin: 0;              /* 移除默认外边距 */
-  list-style: none;       /* 移除列表默认样式 */
-  align-items: center;    /* 垂直居中对齐 */
-  /* 可选：添加位置控制（如固定在顶部） */
-  /* position: fixed; */
-  /* top: 0; left: 0; right: 0; */
-  /* padding: 1em 2em; */
-}
 
-/* 单个菜单项：块级元素避免挤压 */
-.menus_item {
-  display: block;
-  position: relative;     /* 为子菜单定位做准备 */
-}
 
-/* 子菜单（下拉列表）：默认隐藏，hover 时显示 */
-.menus_item_child {
-  display: none;          /* 默认隐藏 */
-  position: absolute;     /* 相对于父菜单定位 */
-  top: 100%;              /* 放在父菜单下方 */
-  left: 0;
-  min-width: 120px;       /* 子菜单最小宽度 */
-  padding: 0.5em 0;
-  margin: 0;
-  background: rgba(255, 255, 255, 0.9); /* 背景色（根据主题调整） */
-  border-radius: 4px;     /* 圆角 */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* 阴影 */
-  list-style: none;
-}
-
-/* 鼠标 hover 父菜单时显示子菜单 */
-.menus_item:hover .menus_item_child {
-  display: block;
-}
-
-/* 子菜单项样式 */
-.menus_item_child li {
-  padding: 0.3em 1em;
-}
-
-/* 链接样式统一（可选，根据主题调整） */
-.site-page {
-  text-decoration: none;  /* 移除下划线 */
-  color: inherit;         /* 继承父元素颜色 */
-  white-space: nowrap;    /* 文字不换行 */
-  padding: 0.3em 0.5em;
-  display: inline-flex;   /* 图标和文字对齐 */
-  align-items: center;    /* 图标和文字垂直居中 */
-  gap: 0.3em;             /* 图标和文字间距 */
-}
-
-/* 鼠标 hover 链接时样式（可选） */
-.site-page:hover {
-  color: #42b983;         /* 高亮色（根据主题调整） */
-}
 
 
 
