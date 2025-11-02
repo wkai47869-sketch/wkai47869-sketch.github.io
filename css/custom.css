@@ -292,14 +292,20 @@ div#archive {
 
 /* 自定义图标 开始*/
 svg.icon {
+  width: 1.8em;
+  height: 1.8em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+/* 自定义图标 结束*/
+svg.social_icon {
   width: 1.28em;
   height: 1.28em;
   vertical-align: -0.15em;
   fill: currentColor;
   overflow: hidden;
 }
-/* 自定义图标 结束*/
-
 
 
 
