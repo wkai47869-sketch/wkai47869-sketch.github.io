@@ -13,83 +13,7 @@
       
       <categories>
           
-          <category> 技术 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2025/10/31/test/"/>
-      <url>/2025/10/31/test/</url>
-      
-        <content type="html"><![CDATA[<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br><span class="line"><span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> tb_user <span class="keyword">where</span> id <span class="operator">=</span> <span class="number">1</span>; </span><br></pre></td></tr></table></figure><h2 id="烦你"><a href="#烦你" class="headerlink" title="烦你"></a>烦你</h2><h3 id="违法"><a href="#违法" class="headerlink" title="违法"></a>违法</h3><p>大数据</p><h2 id="驱蚊器"><a href="#驱蚊器" class="headerlink" title="驱蚊器"></a>驱蚊器</h2><h3 id="范文芳"><a href="#范文芳" class="headerlink" title="范文芳"></a>范文芳</h3><p>解放军</p><h3 id="各个"><a href="#各个" class="headerlink" title="各个"></a>各个</h3><p>人情味</p><h3 id="葛瑞格"><a href="#葛瑞格" class="headerlink" title="葛瑞格"></a>葛瑞格</h3><p>人权为荣</p><hr><p>访问</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ccc</title>
-      <link href="/2025/10/31/ccc/"/>
-      <url>/2025/10/31/ccc/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 分公司 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>bbb</title>
-      <link href="/2025/10/31/bbb/"/>
-      <url>/2025/10/31/bbb/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 归属 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>aaa</title>
-      <link href="/2025/10/31/aaa/"/>
-      <url>/2025/10/31/aaa/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 发生的 </category>
+          <category> 学习 </category>
           
       </categories>
       
@@ -108,7 +32,7 @@
       
       <categories>
           
-          <category> 技术 </category>
+          <category> 学习 </category>
           
       </categories>
       
