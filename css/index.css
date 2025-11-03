@@ -5934,7 +5934,7 @@ figure.highlight pre .javascript .function {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: https://source.fomal.cc/img/dm4.webp;
+  background: https://source.fomal.cc/img/dm2.webp;
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5942,14 +5942,14 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: https://source.fomal.cc/img/dm3.webp !important;
+    background: https://source.fomal.cc/img/dm2.webp !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: https://source.fomal.cc/img/dm4.webp !important;
+    background: https://source.fomal.cc/img/dm2.webp !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
