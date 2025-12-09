@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>SSM</title>
+      <link href="/2025/12/09/SSM/"/>
+      <url>/2025/12/09/SSM/</url>
+      
+        <content type="html"><![CDATA[<h1 id="注册组件的各种方式"><a href="#注册组件的各种方式" class="headerlink" title="注册组件的各种方式"></a>注册组件的各种方式</h1><table><thead><tr><th>内容</th><th>目标</th></tr></thead><tbody><tr><td>@Bean</td><td>理解单例</td></tr><tr><td>获取Bean</td><td>理解组件获取方式</td></tr><tr><td>@Configuration</td><td>理解MVC分层对应注解</td></tr><tr><td>@Controller</td><td>理解MVC分层对应注解</td></tr><tr><td>@Service</td><td>理解MVC分层对应注解</td></tr><tr><td>@Respository</td><td>理解MVC分层对应注解</td></tr><tr><td>@ComponentScan</td><td>批量扫描</td></tr><tr><td>@Import</td><td>按需导入</td></tr><tr><td>@Scope</td><td>组件作用域</td></tr><tr><td>@Lazy</td><td>懒加载</td></tr><tr><td>FactoryBean</td><td>工厂Bean</td></tr><tr><td>@conditional</td><td>条件注册</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>垃圾东西</title>
       <link href="/2025/12/03/%E5%9E%83%E5%9C%BE%E4%B8%9C%E8%A5%BF/"/>
       <url>/2025/12/03/%E5%9E%83%E5%9C%BE%E4%B8%9C%E8%A5%BF/</url>
